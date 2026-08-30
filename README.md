@@ -233,5 +233,6 @@ Detailed project documentation:
 - [Troubleshooting](docs/troubleshooting.md)
 - [Cleanup Guide](docs/cleanup.md)
 - [Editable Architecture Diagram](assets/aws-vpc-infrastructure.excalidraw)
+- [AWS CLI Commands](commands/aws-cli-commands.md)
 
 ---
