@@ -1,0 +1,18 @@
+# AWS private keys
+*.pem
+
+# Terraform local/state files
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Environment files / secrets
+.env
+.env.*
+*.secret
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
