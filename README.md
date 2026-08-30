@@ -223,3 +223,15 @@ This project reinforced several cloud infrastructure concepts:
 
 ---
 
+## 📖 Project Documentation
+
+Detailed project documentation:
+
+- [Architecture Plan](architecture-plan.md)
+- [Implementation Guide](docs/implementation.md)
+- [Infrastructure Validation](docs/validation.md)
+- [Troubleshooting](docs/troubleshooting.md)
+- [Cleanup Guide](docs/cleanup.md)
+- [Editable Architecture Diagram](assets/aws-vpc-infrastructure.excalidraw)
+
+---
