@@ -309,7 +309,7 @@ aws ec2 describe-security-groups --group-ids <PUBLIC_SG_ID> <PRIVATE_SG_ID> --ou
 ## Security Notes
 
 ````
-Notice I intentionally used:
+Note: I intentionally used:
 
 ```text
 <VPC_ID>
@@ -321,6 +321,3 @@ Notice I intentionally used:
 <PUBLIC_EC2_IP>
 ````
 
-
-
-This is worth adding. It gives the repo four complementary forms of evidence: **architecture = what you designed, implementation = how you built it, CLI commands = what you actually used, troubleshooting = what you solved.**
