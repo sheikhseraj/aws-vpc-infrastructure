@@ -7,6 +7,10 @@ Hands-on AWS networking and EC2 infrastructure project demonstrating public/priv
 
 ## 🏗️ Architecture
 
+![AWS VPC Infrastructure Architecture](assets/aws-vpc-infrastructure.png)
+
+> Editable source: [`aws-vpc-infrastructure.excalidraw`](assets/aws-vpc-infrastructure.excalidraw)
+
 The environment separates internet-facing and private resources using public and private subnets.
 
 ```text
